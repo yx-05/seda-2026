@@ -54,8 +54,8 @@ const LandingPage: React.FC = () => {
         >
           <img 
             src={logo} 
-            alt="DeepNaN Logo" 
-            className="h-20 w-auto" 
+            alt="ACBMS Logo" 
+            className="h-auto w-auto" 
           />
         </motion.div>
       </div>
