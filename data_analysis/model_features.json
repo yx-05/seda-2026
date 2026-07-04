@@ -1,0 +1,1 @@
+["IndoorTemp", "IndoorHumidity", "OutdoorTemp", "OutdoorHumidity", "Rain", "CloudCover", "WindSpeed", "Temp_Diff", "AC_State", "Hour_sin", "Hour_cos", "IndoorTemp_Lag1", "Temp_Change_Rate", "AC_State_Lag1", "IndoorTemp_RollingMean_1hr", "OutdoorTemp_RollingMean_4hr", "IndoorTemp_Lag12"]
